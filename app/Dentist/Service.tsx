@@ -3,6 +3,7 @@ import './Service.css';
 import logo from "../images/icon.png"
 import Image from 'next/image';
 import Link from 'next/link';
+import Button from '@/componets/Button';
 
 
 function Service() {
@@ -27,9 +28,9 @@ function Service() {
         <span id='spanid'>Dental Implants: Regain confidence in your smile with permanent tooth replacement solutions using state-of-the-art dental implants.</span>
       </div>
       </div>
-     <Link href="/Appointment">
+      <Link href="/Appointment">
      <div className='divyabt'>
-   
+      <Button/>
      </div>
      </Link>
     </div>

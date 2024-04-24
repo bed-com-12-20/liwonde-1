@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Header from '@/componets/navbar';
 import Footer from '@/componets/footer';
+import Button from '@/componets/Button';
 
 
 function Service() {
@@ -41,9 +42,9 @@ function Service() {
         experience excellence in every moment of your journey to parenthood</span>
       </div>
       </div>
-     <Link href="/Appointment">
+      <Link href="/Appointment">
      <div className='divyabt'>
-        
+      <Button/>
      </div>
      </Link>
     </div>

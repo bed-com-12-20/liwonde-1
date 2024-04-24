@@ -74,6 +74,7 @@ export default function Example() {
               </div>
             ))}
             <div className='justify-center mt-10 '>
+            <h2 className="text-2xl font-bold text-green-900 text-center">Visiting Hours</h2>
             <div className="table-row">
                         <div className="table-cell">
                             <p>Day</p>
