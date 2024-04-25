@@ -35,7 +35,7 @@ export default function MissionSection() {
       >
         <section id="mission-section">
         <div className="footer-coll">
-          <h4>Mission Statement</h4>
+          <h4>Mission </h4>
           <p>
             we are fully ommitted to deliver effective,
             <br />
